@@ -3,8 +3,8 @@
   "format": "hechinger",
   "delimiter": ",",
   "resources": {
-    "nodes": "http://esapubs.org/archive/ecol/E092/174/Flensburg_Data_Nodes.csv",
-    "links": "http://esapubs.org/archive/ecol/E092/174/Flensburg_Data_Links.csv"
+    "nodes": "Flensburg_Data_Nodes.csv",
+    "links": "Flensburg_Data_Links.csv"
   },
   "location": {
     "locale": "Flensburg Fjord, a brackish shallow water inlet on the Baltic Sea, between Germany and Denmark",
